@@ -4,14 +4,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@color/backGround">
 
     <TextView
         android:id="@+id/AppName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+<<<<<<< b1
         android:gravity="center_horizontal"
         android:text="Finsta"
+=======
+        android:fontFamily="@font/bree_serif"
+        android:gravity="center_horizontal"
+        android:text="Learners"
+>>>>>>> main
         android:textAlignment="center"
         android:textColor="@android:color/white"
         android:textColorHint="@android:color/white"
