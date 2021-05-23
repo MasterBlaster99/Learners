@@ -50,6 +50,9 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -965,6 +968,7 @@ color accent_material_dark
 color accent_material_light
 color androidx_core_ripple_material_light
 color androidx_core_secondary_text_default_material_light
+color backGround
 color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
@@ -1684,7 +1688,9 @@ drawable notify_panel_notification_icon_bg
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font bree_serif
 id ALT
+id AppName
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
@@ -2154,6 +2160,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_login
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item

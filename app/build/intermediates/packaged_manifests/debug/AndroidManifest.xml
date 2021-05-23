@@ -18,6 +18,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Learners" >
+        <activity android:name="com.example.learners.LoginActivity" />
         <activity android:name="com.example.learners.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

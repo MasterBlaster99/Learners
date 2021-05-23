@@ -24,6 +24,10 @@
         "source": "C:\\Users\\shekh\\Desktop\\Hackathon\\Learners\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "C:\\Users\\shekh\\Desktop\\Hackathon\\Learners\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\shekh\\Desktop\\Hackathon\\Learners\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
         "merged": "C:\\Users\\shekh\\Desktop\\Hackathon\\Learners\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\shekh\\Desktop\\Hackathon\\Learners\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "C:\\Users\\shekh\\Desktop\\Hackathon\\Learners\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\shekh\\Desktop\\Hackathon\\Learners\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\shekh\\Desktop\\Hackathon\\Learners\\app\\build\\intermediates\\res\\merged\\debug\\font_bree_serif.xml.flat",
+        "source": "C:\\Users\\shekh\\Desktop\\Hackathon\\Learners\\app\\src\\main\\res\\font\\bree_serif.xml"
     },
     {
         "merged": "C:\\Users\\shekh\\Desktop\\Hackathon\\Learners\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
